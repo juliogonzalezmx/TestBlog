@@ -1,5 +1,9 @@
+Commit1:
 Primera versión de git de entrenamiento de pltz
-
 Historia
 
+Commit2:
 Segundos cambios para commit
+
+Commit3:
+Estoy aprendiendo progrmación
