@@ -7,3 +7,6 @@ Segundos cambios para commit
 
 Commit3:
 Estoy aprendiendo progrmación
+
+
+Hoy hablaremos de su vida
