@@ -1,0 +1,26 @@
+Commit1:
+Primera versión de git de entrenamiento de pltz
+
+
+Commit2:
+Definición de objetivos personales: DevOps
+
+Commit3:
+Path 2 months
+
+Main Goal: Python Developer
+
+
+Commit4:
+Vamos a listar las cosas que tenemos que aprender en el orden correcto
+
+1: Python / Go
+2: Linux / Unix
+3: Git and VCS Hosting (Github)
+4: Networking (Reverse Proxy, Forward Proxy, caching server, Firewall, Load Balancer)
+5: Containers (Docker)
+6: Cloud providers (AWS / AZURE)
+
+
+Commit5: 
+I will be focus in read at least 10 minutes per day
