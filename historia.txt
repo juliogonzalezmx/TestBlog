@@ -10,3 +10,5 @@ Estoy aprendiendo progrmación
 
 
 Hoy hablaremos de su vida
+
+Hola Soy Cesar desde otra computador y haciendo un nuevo commit
